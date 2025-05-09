@@ -148,7 +148,7 @@ status: "true",
   "GitHub Stalk": {
     status: "true",
   code: "200",
-  creator: "OwnBlox",
+  creator: "Alfin",
   data: {
     name: "microsoft",
     username: "microsoft",
@@ -216,7 +216,7 @@ status: "true",
   },
   "Cek Khodam": {
   status: "200",
-  result: "Khodam OwnBlox adalah Siluman Ular Merah penjaga kekayaan dan pelindung dari segala kejahatan ilmu hitam."
+  result: "Khodam Alfin adalah Siluman Ular Merah penjaga kekayaan dan pelindung dari segala kejahatan ilmu hitam."
   },
   "Tahu Kah Kamu?": {
   status: "200",
